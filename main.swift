@@ -1,8 +1,8 @@
 
 // 01)
-var nickName:String = "Augustinho";
+var nickName:String = "Vini";
 print(nickName);
-var name = "Augusto";
+var name = "Vinicius";
 
 
 //02)
@@ -15,7 +15,7 @@ let modeloCarro = "ford fiesta";
 //03)
 // As anotações de tipo no swith são usadas para declara qaul o tipo da variavel.
 // como por exemplo var nickname:String = "Augustinho" neste caso a var nickName está 
-// sendo identificada como String. caso els estiivece sendo declara como var nickName = "Augustinho" futuramente eu poderia atribuir um outro valor como numerioc ou buleano nas variavel de nome nickName
+// sendo identificada como String. caso els estiivece sendo declara como var nickName = "Vini" futuramente eu poderia atribuir um outro valor como numerioc ou buleano nas variavel de nome nickName
 
 //04)
 var intValue = 1
